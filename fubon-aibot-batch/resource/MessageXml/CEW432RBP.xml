@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Tx>
+	<FMPConnectionString>
+		<SPName>TM_Client</SPName>
+		<LoginID>TM_Client</LoginID>
+		<Password>OycBbkVTjqTJIhUsoQGWeQ==</Password>
+		<TxnId>CEW432RBP</TxnId>
+	</FMPConnectionString>
+	<TxHead>
+		<HWSID>TM_Client</HWSID>
+		<HSTANO>0500191</HSTANO>
+		<HTLID>2007OB01</HTLID>
+		<HTXTID>CEW432RBP</HTXTID>
+		<HFMTID>0001</HFMTID>
+		<HSPSCK>N0</HSPSCK>
+	</TxHead>
+	<TxBody>
+		<CUSID>A122198662</CUSID>
+		<QTYPE>A</QTYPE>
+		<TYPE>1</TYPE>
+		<QRYRNG>4</QRYRNG>
+	</TxBody>
+</Tx>

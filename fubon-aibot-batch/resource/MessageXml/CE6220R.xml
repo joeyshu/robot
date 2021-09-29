@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tx>     
+	<FMPConnectionString>         
+		<SPName>TM_Client</SPName>         
+		<LoginID>TM_Client</LoginID>         
+		<Password/>         
+		<TxnId>CE6220R</TxnId>    
+	</FMPConnectionString>     
+	<TxHead>         
+		<HTLID>2007OB01</HTLID>
+		<HFMTID>0001</HFMTID>
+		<HSPSCK>N0</HSPSCK>
+		<HTXTID>CE6220R</HTXTID>
+		<HWSID>TM_Client</HWSID>
+		<HSTANO>7420074</HSTANO> 
+	</TxHead>
+	<TxBody>
+		<PIN></PIN>
+		<TYPE>5</TYPE>
+	</TxBody>
+</Tx>

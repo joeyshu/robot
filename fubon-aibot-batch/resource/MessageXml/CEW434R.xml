@@ -1,0 +1,19 @@
+<Tx>
+	<FMPConnectionString>
+		<SPName>TM_Client</SPName> 
+		<LoginID>TM_Client</LoginID> 
+		<Password>1qaAi2xlgWzujBni1gCs7g==</Password> 
+		<TxnId>CEW434R</TxnId> 
+	</FMPConnectionString>
+	<TxHead>
+		<HTXTID>CEW434R</HTXTID> 
+		<HWSID>TM_Client</HWSID> 
+		<HTLID>2007OB0</HTLID> 
+		<HSTANO>0341783</HSTANO> 
+		<HFMTID>0001</HFMTID> 
+	</TxHead>
+	<TxBody>
+		<CUSID>B120018788</CUSID> 
+		<QRYRNG>4</QRYRNG> 
+	</TxBody>
+</Tx>

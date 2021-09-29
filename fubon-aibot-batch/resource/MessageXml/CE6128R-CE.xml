@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Tx>
+  <FMPConnectionString>
+    <SPName>OB_Client</SPName>
+    <LoginID>OB_Client</LoginID>
+    <Password>OycBbkVTjqTJIhUsoQGWeQ==</Password>
+    <TxnId>CE6128R</TxnId>
+  </FMPConnectionString>
+  <TxHead>
+    <HWSID>OB_Client</HWSID>
+    <HSTANO>0500192</HSTANO>
+    <HTLID>2007OB01</HTLID>
+    <HTXTID>CE6128R</HTXTID>
+    <HFMTID>0001</HFMTID>
+    <HSPSCK>N0</HSPSCK>
+    <HDRVQ1>CCW00BHQ</HDRVQ1>>
+  </TxHead>
+  <TxBody>
+    <I_CDID></I_CDID>
+    <QTYPE>AOE</QTYPE>
+    <TYPE>1</TYPE>
+    <QRYRNG>4</QRYRNG>
+  </TxBody>
+</Tx>

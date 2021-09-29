@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Tx xmlns:eai="http://www.ibm.com.tw/mf/eai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	txid="CEW301R" encoding="UTF-8" fontremapping="OFF">
+
+	<FMPConnectionString>
+		<SPName>TM_Client</SPName>
+		<LoginID>TM_Client</LoginID>
+		<TxnId>CEW301R</TxnId>
+	</FMPConnectionString>
+
+	<TxHead>
+		<HTXTID>CEW301R</HTXTID>
+		<HWSID>TM_Client</HWSID>
+		<HTLID>2007OB01</HTLID>
+		<HSTANO>7680268</HSTANO>
+		<TXMSRN />
+	</TxHead>
+
+	<TxBody xmlns:eb="http://www.ibm.com.tw/mf/eb" xsi:type="eb:CEW301RSvcRqType">
+		<ID></ID>
+	</TxBody>
+</Tx>
