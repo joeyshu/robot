@@ -248,8 +248,8 @@ public class BlackListCheckProcessor implements ItemProcessor<TBusCustomer, TBus
 	}
 
 	protected boolean isInBlacklist(TBusCustomer item) {
-		Blacklist blacklistCheck = tBusBlackListRepository.findByIdentityIdAndDeleteMarkNotAndDeleteMarkNotAndStatusIn(
-				item.getCustomer_28(), "Y", "y",
+		Blacklist blacklistCheck = tBusBlackListRepository.findByIdentityIdAndDeleteMarkNotInAndStatusIn(
+				item.getCustomer_28(),Arrays.asList("Y","y"),
 				Arrays.asList(blackListStatusReview, blackListStatusReviewReturn, blackListStatusCconfirmReturn));
 		return blacklistCheck != null;
 	}

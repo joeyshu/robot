@@ -9,8 +9,7 @@ import com.fubon.robot.batch.robot.evdata.Blacklist;
 
 @Repository
 public interface TBusBlackListRepository extends JpaRepository<Blacklist, String> {
-	
-	public Blacklist findByIdentityIdAndDeleteMarkNotAndDeleteMarkNotAndStatusIn(String identityId, String deleteMark,
-			String deleteMarklowCase, List<String> status);
+
+	public Blacklist findByIdentityIdAndDeleteMarkNotInAndStatusIn(String identityId,  List<String> deleteMark, List<String> status);
 
 }
