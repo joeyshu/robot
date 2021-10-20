@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Tx>
+	<TxHead>
+		<HWSID>TM</HWSID>
+		<HSTANO>0052011</HSTANO>
+		<HTLID></HTLID>
+		<HTXTID>CEW435R</HTXTID>
+		<HFMTID>0000</HFMTID>
+	</TxHead>
+	<TxBody>
+		<CUSID></CUSID>
+		<QRYRNG>60</QRYRNG>
+		<PROD>D</PROD>
+		<ELNFLG>Y</ELNFLG>
+	</TxBody>
+
+</Tx>

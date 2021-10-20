@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tx>     
+	<FMPConnectionString>         
+		<SPName>TM_Client</SPName>         
+		<LoginID>TM_Client</LoginID>         
+		<Password/>         
+		<TxnId>LM052671</TxnId>    
+	</FMPConnectionString>     
+	<TxHead>         
+		<HSYDAY>1070208</HSYDAY>         
+		<HSYTIME>093018</HSYTIME>         
+		<HWSID>TM_Client</HWSID>         
+		<HSTANO>0006336</HSTANO>         
+		<HTLID>8704181</HTLID>         
+		<HTXTID>LM052671</HTXTID>  
+	</TxHead>
+	<TxBody>
+		<CUST_NO></CUST_NO>
+		<ID_TYPE>11</ID_TYPE>
+	</TxBody>
+</Tx>

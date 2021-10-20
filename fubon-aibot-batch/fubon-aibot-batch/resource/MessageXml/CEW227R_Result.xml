@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tx>
+  <TxHead>
+    <HMSGID>P</HMSGID>
+    <HERRID>0000</HERRID>
+    <HSYDAY>1060310</HSYDAY>
+    <HSYTIME>101157</HSYTIME>
+    <HWSID>FB_COM    </HWSID>
+    <HSTANO>0067336</HSTANO>
+    <HDTLEN>0001</HDTLEN>
+    <HREQQ1/>
+    <HREPQ1>EA1PSEQ   </HREPQ1>
+    <HDRVQ1>CCW00BHQ  </HDRVQ1>
+    <HPVDQ1>EA1PSEQ   </HPVDQ1>
+    <HPVDQ2/>
+    <HSYCVD>1060309</HSYCVD>
+    <HTLID>8064200   </HTLID>
+    <HTXTID>CEW227R</HTXTID>
+    <HFMTID>0001 </HFMTID>
+    <HRETRN>E</HRETRN>
+    <HSLGNF>1</HSLGNF>
+    <HSPSCK>Y8</HSPSCK>
+    <HRTNCD/>
+    <HSBTRF/>
+    <HFILL/>
+  </TxHead>
+  <TxBody>
+    <Txbcode>Y</Txbcode>
+  </TxBody>
+</Tx>
